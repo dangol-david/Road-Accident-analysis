@@ -28,3 +28,5 @@ Clients want to create a road accident dashboard for the years 2021 and 2022 so 
 - 38.77% of all the casualties happen in the rural areas while 61.23% of all casualties happen in the urban areas.
 - 72.98% of all casualties happens when the area is lit, either during the daylight or if its dark but the lights are lit, while 27.07% of all casualties happens when its dark.
 - 76.7% of all casualties / accidents happens during the day and 23.3% of all casualties / accidents happens at night.
+
+
